@@ -1,1 +1,1 @@
-print("Hello, {{cookiecutter.geeting_recipient}}!")
+print("Hello, {{cookiecutter.greeting_recipient}}!")
